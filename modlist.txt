@@ -1,0 +1,284 @@
+Check out the projects I'm using in my modpack!
+
+Steve's Realistic Sleep
+Easy Anvils
+Not Enough Recipe Book [NERB]
+AppleSkin
+Craftable Horse Armour & Saddle [CHA&S]
+Farmer's Delight Refabricated
+Mod Menu
+Ender Dragon Fight Remastered
+No Wasting Horse Food
+Do a Barrel Roll
+Puzzle
+Basic Nether Ores 32x.zip
+Valkyrien Skies
+Quad
+Pling
+Fabric Language Kotlin
+Necronomicon API
+BetterWeapons
+Scout
+Auto HUD
+Macaw's Lights and Lamps
+Borderless Mining
+BackTools
+Tectonic
+Snowball and Egg Knockback
+Revive
+Biome Replacer
+Horse Buff
+Amplified Nether
+Moonlight Lib
+Man of Many Planes
+More Composter Variants
+Iris/Oculus & GeckoLib Compat
+End Remastered
+Solid Mobs
+More Grindstone Variants
+Visual Workbench
+[TaCZ] Timeless and Classics Zero
+Rechiseled
+Iris Shaders
+ServerCore
+Sodium Extra
+Indium
+More Loom Variants
+Make Bubbles Pop
+Dawn API
+Disable Custom Worlds Advice
+Horseshoes
+Guard Villagers (Fabric/Quilt)
+Snowfall
+Fusion (Connected Textures)
+Always Infect Villagers
+YUNG's Better Witch Huts
+Dynamic Lights
+Villages & Pillages
+Valkyrien Ice Breakers
+ComplementaryReimagined_r5.2.2.zip.txt
+More Chiseled Bookshelf Variants
+Horde Nights
+Visuality
+Small Ships
+Simple Voice Chat
+Collective
+Danger Close
+No Resource Pack Warnings
+Chat Signing Hider
+Capes
+Rolling Down in the Deep
+SuperMartijn642's Config Lib
+SnowyLeavesPlus
+More Cartography Tables
+Essential Mod
+Macaw's Doors
+Dismount Entity
+Better Ping Display [Fabric]
+HT's TreeChop
+Item Obliterator
+Client Tweaks
+Lithostitched
+The Lost Castle
+Your Options Shall Be Respected (YOSBR)
+More Lectern Variants
+libIPN
+Immersive Weathering
+Ships
+Dynamic FPS
+Deeper and Darker
+First-person Model
+Furynace
+YUNG's Better Mineshafts
+Immersive Aircraft
+Cherished Worlds
+Macaw's Fences and Walls
+Game Menu Remove GFARB
+Map Atlases
+BetterEnd
+Dynamic Crosshair
+Balm
+Eating Animation
+Geckolib
+Elytra Bombing
+Nature's Compass
+Better Nether Map
+Macaw's Trapdoors
+Just Enough Items
+Voice Chat Interaction
+Architectury API
+Head in the Clouds
+Macaw's Furniture
+NiftyCarts
+CICADA
+Diagonal Windows
+More Barrel Variants
+Concurrent Chunk Management Engine (Fabric)
+Sodium
+M.R.U
+Continuity
+Horse Expert
+Default HD
+EnhancedVisuals
+Too Many Entities
+Easy Magic
+Fluidlogged
+BadOptimizations
+3D Skin Layers
+Controlling
+YUNG's Better Dungeons
+CreativeCore
+More Shield Variants
+FastAnim
+Rare Ice
+CTOV - Friends and Foes Compat
+Fishing Real
+YUNG's Extras
+Debugify
+Boat Item View
+Basic Nether Ores
+[ESF] Entity Sound Features
+Better Mount HUD
+More Crafting Tables (MCT)
+Kaffee's Dual Ride
+Illager Invasion
+Sawmill
+Mindful Darkness
+Netherite Horse Armor
+Sounds
+Not Enough Animations
+YUNG's Better Ocean Monuments
+Puzzles Lib
+Shiny Horses
+Passable Foliage 🌳
+Fire Arrows Ignite Fire
+Macaw's Windows
+Explosive Enhancement
+Diagonal Walls
+Blur+
+oωo (owo-lib)
+Towns and Towers
+Friends&Foes (Fabric/Quilt)
+YUNG's Better Jungle Temples
+Bundle Craft
+Clumps
+TZP_1.20.1_2.7.zip
+Wakes
+Random Village Names
+Better Beds
+More Furnaces Variants
+Fabrication & Forgery
+Better Third Person
+YUNG's Better Nether Fortresses
+Fadeless
+Macaw's Paintings
+Snowy Spirit
+YUNG's Better Strongholds
+Better Clouds
+Kiwi 🥝
+Snow! Real Magic! ⛄
+More Culling
+Better Combat
+MonoLib
+Better Archeology
+classic-battletowers-1.0.3+1.20.jar
+LambDynamicLights
+Universal Graves
+More Feeding Trough Variants
+More Smithing Tables
+Double Doors
+Let Me Despawn
+Animal Feeding Trough
+Torch hit!
+Real Arrow Tip
+Realms Button Remover
+More Smoker Variants
+Starlight (Fabric)
+Trinkets
+Arrow Bundles
+Model Gap Fix
+Fabric API
+More Beehive Variants
+Armor Statues
+Memory Leak Fix
+Shulker Box Tooltip
+ItemPhysic
+More Chat History
+More Jukebox/Noteblock Variants
+Universal Ores
+Dynamic Surroundings: Fabric Edition
+Craftable Name Tag
+Cobweb
+Forge Config API Port
+[EMF] Entity Model Features
+Searchables
+FleshZ
+YUNG's API
+Kambrik
+Structure Credits
+Macaw's Bridges
+3D Default
+CTOV - Farmer Delight Compat
+Stoneworks
+FerriteCore
+Doggy Talents Next
+Valkyrien Pirates
+Krypton
+YUNG's Better Desert Temples
+Entity Culling
+Winterly
+Inventory Profiles Next
+Eureka! Ships! for Valkyrien Skies (Forge/Fabric)
+Dark Loading Screen
+Botarium
+Terralith
+BCLib
+Areas
+More Bed Variants
+GLSL Panorama Shaders
+Zoomify
+More Bookshelves Variants
+Immersive Paintings
+Cloth Config API
+LazyDFU
+Auto Third Person
+More Fletching Tables
+ClearDespawn
+Nyf's Spiders
+Animatica
+Reese's Sodium Options
+Fresh Animations
+YUNG's Better End Island
+Eugene's Whistle & Spur
+Horse Stonks
+Remove Reloading Screen
+Snow Under Trees (Fabric)
+Comforts
+Horse Armor Stand
+Enhanced Block Entities
+Villager Leads
+CIT Resewn
+Better End Cities for BetterEnd
+Lithium
+ImmediatelyFast
+More Chests Variants (MCV)
+ChoiceTheorem's Overhauled Village
+Remove Terralith Intro Message
+Smooth Swapping
+Default Dark Mode
+[ETF] Entity Texture Features
+BetterNether
+Presence Footsteps
+Diagonal Fences
+SuperMartijn642's Core Lib
+BetterF3
+Dynamic Crosshair Compat
+Panorama Screens
+Dungeons and Taverns
+Bountiful
+Auditory Continued
+Complementary Shaders - Reimagined
+ModernFix
+Bundle Jumble
+Deeper Oceans
+Cristel Lib
